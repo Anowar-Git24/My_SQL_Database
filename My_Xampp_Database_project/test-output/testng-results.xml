@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-13T00:07:27 EDT" name="Default suite" finished-at="2024-09-13T00:07:27 EDT" duration-ms="489">
+    <groups>
+    </groups>
+    <test started-at="2024-09-13T00:07:27 EDT" name="Default test" finished-at="2024-09-13T00:07:27 EDT" duration-ms="489">
+      <class name="xampp_database.College">
+        <test-method signature="testDB1()[pri:1, instance:xampp_database.College@1af2d44a]" started-at="2024-09-13T00:07:27 EDT" name="testDB1" finished-at="2024-09-13T00:07:27 EDT" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDB1 -->
+        <test-method signature="testDB2()[pri:2, instance:xampp_database.College@1af2d44a]" started-at="2024-09-13T00:07:27 EDT" name="testDB2" finished-at="2024-09-13T00:07:27 EDT" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDB2 -->
+        <test-method signature="testDB3()[pri:3, instance:xampp_database.College@1af2d44a]" started-at="2024-09-13T00:07:27 EDT" name="testDB3" finished-at="2024-09-13T00:07:27 EDT" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDB3 -->
+      </class> <!-- xampp_database.College -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
